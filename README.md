@@ -1,4 +1,5 @@
 # RAG_chatbot
+The link of my chatbot is https://f61cf7ad51cac70ae0.gradio.live
 This project implements a Retrieval-Augmented Generation (RAG) chatbot that can process and summarize PDF documents using the OpenAI API for embeddings and LLM responses. The chatbot takes user queries, retrieves relevant information from the PDF, and provides answers in natural language.
 
 Features

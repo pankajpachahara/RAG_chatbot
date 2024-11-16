@@ -5,6 +5,7 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot that can 
 
 
 Features
+
 PDF Input: Upload any PDF file for text analysis.
 
 Text Summarization: Generates concise summaries of the document.
